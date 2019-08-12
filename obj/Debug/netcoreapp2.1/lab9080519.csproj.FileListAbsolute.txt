@@ -1,0 +1,11 @@
+C:\Users\rfrei\source\repos\lab9080519\obj\Debug\netcoreapp2.1\lab9080519.csprojAssemblyReference.cache
+C:\Users\rfrei\source\repos\lab9080519\obj\Debug\netcoreapp2.1\lab9080519.csproj.CoreCompileInputs.cache
+C:\Users\rfrei\source\repos\lab9080519\obj\Debug\netcoreapp2.1\lab9080519.AssemblyInfoInputs.cache
+C:\Users\rfrei\source\repos\lab9080519\obj\Debug\netcoreapp2.1\lab9080519.AssemblyInfo.cs
+C:\Users\rfrei\source\repos\lab9080519\bin\Debug\netcoreapp2.1\lab9080519.deps.json
+C:\Users\rfrei\source\repos\lab9080519\bin\Debug\netcoreapp2.1\lab9080519.runtimeconfig.json
+C:\Users\rfrei\source\repos\lab9080519\bin\Debug\netcoreapp2.1\lab9080519.runtimeconfig.dev.json
+C:\Users\rfrei\source\repos\lab9080519\bin\Debug\netcoreapp2.1\lab9080519.dll
+C:\Users\rfrei\source\repos\lab9080519\bin\Debug\netcoreapp2.1\lab9080519.pdb
+C:\Users\rfrei\source\repos\lab9080519\obj\Debug\netcoreapp2.1\lab9080519.dll
+C:\Users\rfrei\source\repos\lab9080519\obj\Debug\netcoreapp2.1\lab9080519.pdb
